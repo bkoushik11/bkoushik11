@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bkoushikk" target="blank"><img src="https://img.shields.io/twitter/follow/bkoushikk?logo=twitter&style=for-the-badge" alt="bkoushikk" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Finance Tracker](https://github.com/bkoushik11/Personal-financce-tracker.git)
+- 🔭 I’m currently working on [AI Resume Craft](https://github.com/bkoushik11/airesumecraft.git)
 
 - 🌱 I’m currently learning **Next.js framework to build fast and scalable web applications while deepening my full-stack development skills.**
 
