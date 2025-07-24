@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **koushikbevanapally@gmail.com**
 
-- 📄 Know about my experiences [**Resume.pdf**](https://drive.google.com/file/d/16nff0hkNvD5x-wjbv3WADsogiS9SzRyl/view?usp=sharing)
+- 📄 Know about my experiences [**Resume.pdf**](https://drive.google.com/file/d/16Z-aZ991ijwclfu01DWJU6EEc5eqRHl3/view?usp=drive_link)
 
 - ⚡ Fun fact **My best ideas usually hit when I'm nowhere near my laptop.**
 
